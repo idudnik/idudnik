@@ -27,4 +27,12 @@
 <img title="Python" src="/icon/python-original.svg" height="40" width="40"/> <img title="Pytest" src="icon/pytest-original.svg" height="40" width="40"/><img title="Allure Report" src="icon/Allure_Report.png" height="40" width="40"/> <img title="Allure TestOps" src="icon/AllureTestOps.png" height="40" width="40"/> <img title="GitHub" src="icon/github-original.svg" height="40" width="40"/> <img title="Selenoid" 
 src="icon/selenoid.png" height="40" width="40"/> <img title="Selenium" src="icon/selenium-original.svg" height="40" width="40"/> <img title="Selene" src="icon/selene.png" height="40" width="40"/> <img title="Pycharm" src="icon/pycharm.png" height="40" width="40"/> <img title="Telegram" src="icon/tg.png" height="40" width="40"/> <img title="Jenkins" src="icon/jenkins-original.svg" height="40" width="40"/>
 
-Созданы автоматизированные тесты для проверки текста на вкладках сайта Банка ВТБ.
+:heavy_check_mark:Созданы автоматизированные тесты для проверки текста на вкладках сайта Банка ВТБ.
+
+### Особенности проекта
+
+* Оповещения о прохождении тестов в Telegram
+* Сборка проекта в Jenkins
+* Отчеты Allure Report
+* Интеграция с Allure TestOps
+* Запуск автотестов в Selenoid
