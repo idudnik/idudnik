@@ -36,3 +36,6 @@ src="icon/selenoid.png" height="40" width="40"/> <img title="Selenium" src="icon
 * Отчеты Allure Report
 * Интеграция с Allure TestOps
 * Запуск автотестов в Selenoid
+
+
+📱<a target="_blank" href="https://t.me/idudnik">t.me/StanislavDudnik</a>
