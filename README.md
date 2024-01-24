@@ -18,7 +18,7 @@
   </br>
 
 ### Дипломный проект
-Разработан в процессе обучения в Школе инженеров по автоматизации тестирования. <a target="_blank" href="https://qa.guru">qa.guru</a>
+Разработан в процессе обучения в Школе инженеров по автоматизации тестирования.
 
 :link: Проект: <a target="_blank" href="https://github.com/idudnik/qa_guru_15">bank-page-tests</a></br></br>
 
