@@ -17,9 +17,14 @@
   </table>
   </br>
 
-## Дипломный проект
+### Дипломный проект
 Разработан в процессе обучения в Школе инженеров по автоматизации тестирования. <a target="_blank" href="https://qa.guru">qa.guru</a>
 
 :link: Проект: <a target="_blank" href="https://github.com/idudnik/qa_guru_15">bank-page-tests</a></br></br>
+
+### Инструменты:
+
+<img title="Python" src="pictures/icons/python-original.svg" height="40" width="40"/> <img title="Pytest" src="pictures/icons/pytest-original.svg" height="40" width="40"/><img title="Allure Report" src="pictures/icons/Allure_Report.png" height="40" width="40"/> <img title="Allure TestOps" src="pictures/icons/AllureTestOps.png" height="40" width="40"/> <img title="GitHub" src="pictures/icons/github-original.svg" height="40" width="40"/> <img title="Selenoid" 
+src="pictures/icons/selenoid.png" height="40" width="40"/> <img title="Selenium" src="pictures/icons/selenium-original.svg" height="40" width="40"/> <img title="Selene" src="pictures/icons/selene.png" height="40" width="40"/> <img title="Pycharm" src="pictures/icons/pycharm.png" height="40" width="40"/> <img title="Telegram" src="pictures/icons/tg.png" height="40" width="40"/> <img title="Jenkins" src="pictures/icons/jenkins-original.svg" height="40" width="40"/>
 
 Созданы автоматизированные тесты для проверки текста на вкладках сайта Банка ВТБ.
